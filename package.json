@@ -1,6 +1,6 @@
 {
   "name": "jahidul-npm-helloword",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "This is hellow word",
   "main": "index.js",
   "keywords": [
@@ -12,7 +12,7 @@
     "url": "https://github.com/Jahiduldev/npm-hello-package"
   },
   "homepage": "https://github.com/Jahiduldev/npm-hello-package",
-  
+
   "dependencies": {
     "chalk": "^5.0.1",
     "commander": "^9.1.0",
