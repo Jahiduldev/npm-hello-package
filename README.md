@@ -27,4 +27,4 @@ $ node main.js
 
 # Open up `http://localhost:3000/` in a browser
 ```
-Jahidul Islam
+Jahidul Islamd
