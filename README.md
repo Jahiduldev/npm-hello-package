@@ -1,2 +1,1 @@
-# npm-hello-package
-npm hello package 
+# Just hello package 

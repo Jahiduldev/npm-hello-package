@@ -1,0 +1,16 @@
+{
+  "name": "jahidul-npm-helloword",
+  "version": "1.0.3",
+  "description": "This is hellow word",
+  "main": "index.js",
+  "keywords": [
+    "npm",
+    "npm-helloword"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-user/repo-url.git"
+  },
+  "author": "Jahidul Islam",
+  "license": "ISC"
+}
